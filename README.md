@@ -1,1 +1,1 @@
-Clone coding
+Kurly_Clone!
