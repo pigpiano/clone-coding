@@ -1,0 +1,43 @@
+.main-events {
+    position: relative;
+    margin-bottom: 40px;
+   
+    
+}
+.main-content__box {
+    /* 처음 위한 곳 기준으로 위치 변경 */
+    position: relative; 
+}
+.main-content__innerbox1 {
+    position: relative;
+    width: 1050px;
+    margin: 0px auto;
+    z-index: 9999;
+
+}
+.main-content__innerbox2 {
+    overflow-x: hidden;
+}
+.BANNERS {
+    height: 100%;
+    
+}
+.BANNERS__inner {
+    position: relative;
+    height: fit-content;
+    max-width: 1900px;
+    margin: 0px auto 40px;
+}
+
+
+.main-banner-image {
+    width: 100%;
+    min-width: 1050px;
+    height: 370px;
+    object-fit: cover;
+}
+
+img {
+    border: 0;
+    vertical-align: top;
+}

@@ -1,0 +1,45 @@
+.main-content__box {
+    position: relative;
+    width: 1050px;
+    height: 100px;
+    margin: 0px auto;
+    letter-spacing: -0.3px;
+
+}
+.main-content  {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: 20;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 12px;
+}
+a {
+    background-color: transparent;
+    text-decoration: none;
+}
+    
+
+.main-content__inner1 {
+    display: block;
+    color: rgb(95, 0, 128);
+    cursor: pointer;
+}
+.main-content__innerbox {
+    width: 1px;
+    height: 13px;
+    margin: 0px 12px;
+    background-color: rgb(217, 217, 217);
+}
+.main-content__inner2 {
+    display: block;
+    cursor: pointer;
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+    color: inherit;
+}
